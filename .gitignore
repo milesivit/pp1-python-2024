@@ -121,7 +121,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
+# Environments acá es donde saco cosas q no quiero subir
 .env
 .venv
 env/
